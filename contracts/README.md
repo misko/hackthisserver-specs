@@ -1,0 +1,3 @@
+# Contract index
+
+The [repository overview](../README.md) lists all published service, research, acceptance, security, and shared-component documents. These files originated as a wider draft specification. The [practical v1 scope](../ADOPTED-SCOPE.md) records the later reduced release gate, and the [SSH lifecycle amendment](../coordination/amendments/ssh-openssh-lifecycle-r1/amendment.md) supersedes conflicting SSH cleanup requirements. The [decision note](decisions.md) distinguishes proposed choices from adopted scope. No runtime result is established by a contract or acceptance scenario alone.
